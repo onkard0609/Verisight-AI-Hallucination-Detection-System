@@ -149,3 +149,12 @@ Run the backend test suite from the project root after configuring the environme
 - [Evaluation methodology](evaluation/README.md)
 - [Supabase schema](docs/supabase-schema.sql)
 - [Core literature survey](docs/verisight_core_literature_survey_18_papers.docx)
+
+## Group Project
+
+This project was developed as a group project by the following team members:
+
+- Soham Jathar
+- Prathamesh Kolhe
+- Bhavika Kadam
+- Onkar Deshmukh
